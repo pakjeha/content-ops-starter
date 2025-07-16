@@ -2,6 +2,59 @@
 title: Home
 slug: /
 sections:
+  - type: GenericSection
+    title:
+      text: '" Abadikan Moument Indah Bersama Kami "'
+      color: text-dark
+      type: TitleBlock
+      styles:
+        self:
+          fontStyle: italic
+    subtitle: ''
+    text: |+
+      > Videografi pernikahan profesional dengan gaya sinematik. Kami 
+      > mengabadikan setiap momen berharga pernikahan Anda dalam gambar bergerak
+      > yang memukau.
+
+    actions:
+      - label: Hubungi Kami
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: 082186424347
+        type: Button
+      - label: Lihat Portofolio
+        altText: ''
+        url: /
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+        type: Link
+    media:
+      url: /images/112761276.jpg
+      altText: Unblock your team boost your time to production preview
+      elementId: ''
+      type: ImageBlock
+    badge:
+      label: Kezha studio
+      color: text-primary
+      type: Badge
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
   - type: FeaturedItemsSection
     title:
       text: ''
@@ -119,59 +172,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - type: GenericSection
-    title:
-      text: '" Abadikan Moument Indah Bersama Kami "'
-      color: text-dark
-      type: TitleBlock
-      styles:
-        self:
-          fontStyle: italic
-    subtitle: ''
-    text: |+
-      > Videografi pernikahan profesional dengan gaya sinematik. Kami 
-      > mengabadikan setiap momen berharga pernikahan Anda dalam gambar bergerak
-      > yang memukau.
-
-    actions:
-      - label: Hubungi Kami
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: 082186424347
-        type: Button
-      - label: Lihat Portofolio
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
-    media:
-      url: /images/112761276.jpg
-      altText: Unblock your team boost your time to production preview
-      elementId: ''
-      type: ImageBlock
-    badge:
-      label: Kezha studio
-      color: text-primary
-      type: Badge
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
   - subtitle: Award winning enterprises trust us
     images:
       - url: /images/empathy-logo.svg
