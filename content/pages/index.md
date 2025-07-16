@@ -68,10 +68,12 @@ sections:
       - type: FeaturedItem
         title: 2.400K
         subtitle: Silver Package
-        text: >+
-          *   4 Part Video Dokumentasi                                    *   5
-          Hari Kerja Max*   FREE Cinematic Wedding*   FREE FlashDisk 16
-          GB                              *   FREE Revisi Clip Error 3 Hari
+        text: |+
+          *   4 Part Video Dokumentasi
+          *   5 Hari Kerja Max
+          *   FREE Cinematic Wedding 
+          *   FREE FlashDisk 16 GB
+          *   FREE Revisi Clip Error 3 Hari
 
         actions: []
         elementId: null
