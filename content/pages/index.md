@@ -202,6 +202,10 @@ sections:
       - url: /images/GUNTUR.jpeg
         altText: Wellster logo
         type: ImageBlock
+        styles:
+          self:
+            padding:
+              - pl-1
       - url: /images/vise-logo.svg
         altText: Vise logo
         type: ImageBlock
