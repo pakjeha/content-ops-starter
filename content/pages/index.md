@@ -131,10 +131,22 @@ sections:
         type: FeaturedItem
       - title: IDR 3.600K
         subtitle: Platinum Package
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |+
+          *   *   *   *   *   6 Part Video Dokumentasi
+                                                              7 Hari Kerja Max (Full Day)
+                                                                  
+                                                              FREE Cinematic Wedding Pro
+                                                                  
+                                                              FREE FlashDisk 32 GB
+                                                                  
+                                                              FREE Revisi Clip Error 7 Hari
+                                                                  
+
+
+                                                              3 Videograper Profesional
+
+
+
         image:
           url: /images/IMG_5111.JPG
           altText: Featured icon three
