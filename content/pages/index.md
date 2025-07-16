@@ -196,6 +196,9 @@ sections:
       - url: /images/cempaka.jpeg
         altText: Empathy logo
         type: ImageBlock
+        styles:
+          self:
+            borderWidth: 1
       - url: /images/wellster-logo.svg
         altText: Wellster logo
         type: ImageBlock
