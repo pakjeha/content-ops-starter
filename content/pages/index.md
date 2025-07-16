@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           fontStyle: italic
-    subtitle: Assalamu'alaikum
+    subtitle: ''
     text: |+
       > Videografi pernikahan profesional dengan gaya sinematik. Kami 
       > mengabadikan setiap momen berharga pernikahan Anda dalam gambar bergerak
