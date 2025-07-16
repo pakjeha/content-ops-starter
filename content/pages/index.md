@@ -17,7 +17,7 @@ sections:
       > yang memukau.
 
     actions:
-      - label: Get started
+      - label: Hubungi Kami
         altText: ''
         url: /
         showIcon: false
