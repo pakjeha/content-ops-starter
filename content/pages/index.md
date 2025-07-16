@@ -7,6 +7,9 @@ sections:
       text: '" Abadikan Moument Indah Bersama Kami "'
       color: text-dark
       type: TitleBlock
+      styles:
+        self:
+          fontStyle: italic
     subtitle: Subtitle goes here
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
