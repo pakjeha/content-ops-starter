@@ -20,7 +20,7 @@ sections:
       - label: Hubungi Kami
         altText: ''
         url: /
-        showIcon: true
+        showIcon: false
         icon: arrowRight
         iconPosition: right
         style: secondary
