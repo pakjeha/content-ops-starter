@@ -66,7 +66,7 @@ sections:
     subtitle: Paket Layanan
     items:
       - type: FeaturedItem
-        title: 2.400K
+        title: IDR 2.400K
         subtitle: Silver Package
         text: |+
           *   4 Part Video Dokumentasi
