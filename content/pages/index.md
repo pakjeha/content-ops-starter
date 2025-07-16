@@ -209,6 +209,11 @@ sections:
               - pt-1
               - pb-1
               - pr-1
+            margin:
+              - mt-1
+              - ml-1
+              - mb-1
+              - mr-1
       - url: /images/vise-logo.svg
         altText: Vise logo
         type: ImageBlock
