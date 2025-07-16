@@ -99,10 +99,14 @@ sections:
               borderRadius: x-large
       - title: IDR 3.000K
         subtitle: Gold Package
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          *   *   5 Part Video Dokumentasi*   6 Hari Kerja Max*   FREE Cinematic
+          Wedding*   FREE FlashDisk 32GB*   FREE Revisi Clip Error 5 Hari
+
+
+
+
+
         image:
           url: /images/icon2.svg
           altText: Featured icon two
