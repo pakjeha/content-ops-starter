@@ -199,7 +199,7 @@ sections:
         styles:
           self:
             borderWidth: 1
-      - url: /images/wellster-logo.svg
+      - url: /images/GUNTUR.jpeg
         altText: Wellster logo
         type: ImageBlock
       - url: /images/vise-logo.svg
