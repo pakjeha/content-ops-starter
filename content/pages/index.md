@@ -193,7 +193,7 @@ sections:
         fontWeight: 700
   - subtitle: Partnership
     images:
-      - url: /images/empathy-logo.svg
+      - url: /images/cempaka.jpeg
         altText: Empathy logo
         type: ImageBlock
       - url: /images/wellster-logo.svg
