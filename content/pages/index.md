@@ -111,7 +111,7 @@ sections:
           *   FREE Revisi Clip Error 5 Hari
 
         image:
-          url: /images/icon2.svg
+          url: /images/IMG_5115.JPG
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
