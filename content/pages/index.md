@@ -98,7 +98,7 @@ sections:
             self:
               borderRadius: x-large
       - title: IDR 3.000K
-        subtitle: The Job Stuff
+        subtitle: Gold Package
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
