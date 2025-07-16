@@ -191,7 +191,7 @@ sections:
       subtitle:
         textAlign: center
         fontWeight: 700
-  - subtitle: Award winning enterprises trust us
+  - subtitle: Partnership
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
